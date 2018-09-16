@@ -1,37 +1,11 @@
-## Welcome to GitHub Pages
+## Black Mirror: The Entire History of You
 
-You can use the [editor on GitHub](https://github.com/SaahilClaypool/blackmirror/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+2011: "The Entire History of You" is the third and final episode of the first series of British science fiction anthology series Black Mirror. It was written by the creator of Peep Show and Fresh Meat, Jesse Armstrong, making it the only episode of the series not written or co-written by creator and showrunner Charlie Brooker. It was directed by Brian Welsh, and first aired on Channel 4 on 18 December 2011.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+The episode, set in an alternative reality where most people have "grains" recording everything they do, see, or hear, and allowing them to play back their memories in front of their eyes or on a screen, tells the story of Liam (Toby Kebbell), a man who starts suspecting that his wife Ffion (Jodie Whittaker) might have had an affair. ([Wikipedia](https://en.wikipedia.org/wiki/The_Entire_History_of_You))
 
-### Markdown
+## Table of Contents: 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- [Technologies](./Technologies.md)
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/SaahilClaypool/blackmirror/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+    Contains list of technologies in black mirror. 
