@@ -8,4 +8,4 @@ The episode, set in an alternative reality where most people have "grains" recor
 
 - [Technologies](./Technologies.md)
 
-    Contains list of technologies in black mirror. 
+	Contains list of technologies in black mirror. 
