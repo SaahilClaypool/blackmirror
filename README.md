@@ -6,6 +6,8 @@ The episode, set in an alternative reality where most people have "grains" recor
 
 ## Table of Contents: 
 
+- [Timeline](./Timeline.md)
+
 - [Technologies](./Technologies.md)
 
 	Contains list of technologies in black mirror. 
