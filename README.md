@@ -9,3 +9,12 @@ The episode, set in an alternative reality where most people have "grains" recor
 - [Technologies](./Technologies.md)
 
 	Contains list of technologies in black mirror. 
+
+- Categories
+	- [Surveillance](./Surveillance.md)
+	- [Networked Communications](./Networked.md)
+	- [Intellectual Property](./Property.md)
+	- [Information Privacy](./Privacy.md)
+	- [Privacy and Government](./GovPrivacy.md)
+	- [Computer and Network Security](./Security.md)
+	
