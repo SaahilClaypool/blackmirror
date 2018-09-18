@@ -42,3 +42,24 @@
 ### Impossible
 
 ### Plausible
+
+- The 'Grain'
+	
+	A chip implanted behind the ear, and the functionality of google glass built into the eye or contacts. The grain records all memories, and enables playback through a heads up display on the eye.
+
+	- Redo
+		
+		All memories recorded in the grain can be replayed either on your eye, or on a nearby screen for others to watch.
+
+	- Zoom in 
+
+		It is possible to zoom into recorded memories far more than what the human eye can see.
+
+	- Lip reading
+
+		Grain is possible to reconstructing a conversation from accross the room with lip reading software.
+
+	- Intoxication warning while driving
+
+		If someone tries to drive drunk they get a warning that they are responsible for any accidents.
+		
