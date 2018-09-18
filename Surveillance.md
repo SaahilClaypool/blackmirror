@@ -26,6 +26,5 @@ exist, because that's now how Alexa works) as part of a criminal
 investigation – even though that request failed, it shows that even our
 own government of the present would probably be willing to issue the same
 request for Grain records. Again, this kind of surveillance would include
-anyone *seen* by a Grain user, not just Grain users themselves, so even
-a small number of Grain users could have devastating surveillance
-implications.
+anyone *seen* by a Grain user, so even a fraction of the population with
+the Grain could have devastating surveillance implications.
