@@ -19,4 +19,6 @@ The episode, set in an alternative reality where most people have "grains" recor
 	- [Information Privacy](./Privacy.md)
 	- [Privacy and Government](./GovPrivacy.md)
 	- [Computer and Network Security](./Security.md)
+	- [Software Reliability](./Reliability.md)
+	- [Professional Ethics](./ProfessionalEthics.md)
 	
