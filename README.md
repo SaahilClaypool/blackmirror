@@ -17,7 +17,7 @@ The episode, set in an alternative reality where most people have "grains" recor
 	- [Networked Communications](./Networked.md)
 	- [Intellectual Property](./Property.md)
 	- [Information Privacy](./Privacy.md)
-	- [Privacy and Government](./GovPrivacy.md)
+	- [Privacy and Government](./Surveillance.md)
 	- [Computer and Network Security](./Security.md)
 	- [Software Reliability](./Reliability.md)
 	- [Professional Ethics](./ProfessionalEthics.md)
