@@ -22,4 +22,10 @@ The episode, set in an alternative reality where most people have "grains" recor
 	- [Software Reliability](./Reliability.md)
 	- [Professional Ethics](./ProfessionalEthics.md)
 	
+- Meetings
+	- [Meeting 1](./Meetings/meeting_1.mdpreparation)
+	- [Meeting 2](./Meetings/meeting_2.mdpreparation)
+	- [Meeting 3](./Meetings/meeting_3.mdpreparation)
+	- [Meeting 4](./Meetings/meeting_4.mdpreparation)
+
 [Home](https://saahilclaypool.github.io/blackmirror/)
