@@ -35,11 +35,11 @@ awkwardness.
 At dinner, a new character is brought up who discusses her experience being "gouged" (forced removal of her
 grain), her memories likely being offered up to someone rich enough to pay for them (their value is implied to
 be in the memories' intimate contents). Everyone at the party agrees that they couldn't go grainless, arguing
-that real memories can be twisted or are easily faked; the sole grainless person at the dinner uncomfortably
-says that she's "just happier".
+that real memories can be twisted or are easily faked; the sole grainless person present uncomfortably says that
+she's "just happier".
 
-Jonas reveals that uses his grain to store and replay past sexual encounters with other women, possibly to the
-detriment of other relationships.
+Jonas reveals that he uses his grain to store and replay past sexual encounters with other women, possibly to
+the detriment of other relationships.
 
 ## Home for a Night Cup
 
@@ -52,10 +52,10 @@ about it.
 Liam becomes suspicious of Jonas and uses his grain to show a re-do of the house party, where on one of the
 screens *another* redo from long ago was visible, showing Ffion making out with Jonas. Liam and Ffion fight,
 since she obfuscated/lied about her past relationship with Jonas, and about how long it was -- the grain
-memory proved otherwise.
+memory proved it was longer than she claimed.
 
-Later, the two have very un-energetic makeup sex, both choosing to use their grains to relieve past occasions
-instead of making this one more lively.
+Later, the two have very impassionate makeup sex, both choosing to use their grains to relive past occasions
+instead of putting effort into this one.
 
 ## Paranoia 
 
@@ -68,12 +68,13 @@ is cheating on him.
 After drinking heavily, Liam drives to Jonas's house (despite the intoxication warnings of his grain) and
 physically threatens him, forcing him to delete all grain memories of Ffion (Jonas's overnight guest, the woman
 without a grain, calls the police but is turned away when she tells them she doesn't have a grain feed to show
-them). Jonas has these memories organized into an album, a "stash" of his times with Ffion.
+them). Jonas has these memories organized into an album, a "stash" of his times with Ffion. Jonas deletes
+the memories.
 
 ## Confronting Ffion
 
 After crashing his car on the way back, Liam (now somewhat more sober) reviews the grain memories and zooms
-in on a screen showing Jonas's memories of Ffion, one of them dated to 18 months ago, when he was married --
+in on a screen showing Jonas's memories of Ffion, one of them labeled as 18 months ago, when he was married --
 and importantly, when Liam and Ffion were trying for a baby (which they now have).
 
 Liam confronts his wife with the memories, asking her if she used a condom. She says yes, so Liam asks her to
@@ -85,6 +86,7 @@ watches them. It is implied that the memory reveals that Liam and Ffion's child 
 
 Liam walks through the now darkened and messy house, reviewing past memories, some of them pleasant, and some
 of them revealing Ffion's unfaithful or manipulative behavior (e.g. quietly laughing at Liam after they argue
-over whether she was lying). Liam finally goes to the bathroom and uses a razor to remove his grain.
+over whether she was lying). Liam finally goes to the bathroom and uses a razor to remove his grain, and the
+episode ends on a cut to black.
 
 [Home](https://saahilclaypool.github.io/blackmirror/)
