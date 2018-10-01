@@ -21,6 +21,7 @@ The episode, set in an alternative reality where most people have "grains" recor
 	- [Computer and Network Security](./Security.md)
 	- [Software Reliability](./Reliability.md)
 	- [Professional Ethics](./ProfessionalEthics.md)
+	- [Work and Wealth](./WorkAndWealth.md)
 	
 - Meetings
 	- [Meeting 1](./Meetings/meeting_1.md)
@@ -29,3 +30,5 @@ The episode, set in an alternative reality where most people have "grains" recor
 	- [Meeting 4](./Meetings/meeting_4.md)
 
 - [slides](https://docs.google.com/presentation/d/1qIrAfZKnvJqmnIHvqBwNRuUOgYIkvlwRwY0s8Nc-_DA/edit?usp=sharing)
+
+[Home](https://saahilclaypool.github.io/blackmirror/)
