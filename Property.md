@@ -21,7 +21,7 @@ prove actual harm, and in one case a noted television personality (Mr. Rogers) t
 allowing timeshifting. Ironically, Universal and Disney went on to earn a great deal of profit from the sales
 of tapes of their shows.
 
-## ? v. Grain?
+## *? v. Grain*
 
 A nearly identical argument could be made against grain memory -- why buy a copy of the movie when you could
 just watch a re-do of the time you saw it in theaters, or watch a copy from a friend? Why pay for a subscription
@@ -41,9 +41,9 @@ as popular as DVD rips and other direct sources^2), but regardless it's likely t
 would fight back.
 
 
-^1 "Publishing industry" is used broadly, it doesn't just refer to books and newspapers.
+.^1 "Publishing industry" is used broadly, it doesn't just refer to books and newspapers.
 
-^2 *Don't* ask for a source on that!
+.^2 *Don't* ask for a source on that!
 
 
 [Home](https://saahilclaypool.github.io/blackmirror/)
