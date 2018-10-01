@@ -1,10 +1,13 @@
 # Movie Timeline
 
-The premise of the show is that nearly everyone has an implant called a grain. The grain records every memory that person has, and provides a small device to scroll through these memories. The show presents a common story -- one person cheating on another -- with the twist of the grain to help and harm in investigation of this affair.
+In this episode, nearly everyone has an implant called a grain. The grain records everything you experience, and
+provides a small device to scroll through these memories on a heads-up-display shown directly through the eyes.
+The show presents a common story -- one person cheating on another -- with the twist of the grain to help and
+harm in investigation of this affair.
 
-## Events
+The events below are shown in chronological order:
 
-1. The Appraisal
+## The Appraisal
 
 The main character, Liam Foxwell, is present at a job appraisal meeting with some leaders at his law firm. At
 first Liam believes the appraisal went well, but upon reviewing the memories saved in his grain he is dismayed
@@ -17,7 +20,7 @@ The security agent asks for the last 24 hours, then the last week at 64x playbac
 security terminal computer uses facial recognition to highlight key people in his recent pass, such as the
 people who conducted his appraisal.
 
-2. The House Party
+## The House Party
 
 Liam arrives at a house party seemingly held by some old friends of his wife, using his grain to quickly review
 memories of people he's since forgotten before entering the house. Liam's wife Ffion ("Fi") is seen talking
@@ -38,7 +41,7 @@ says that she's "just happier".
 Jonas reveals that uses his grain to store and replay past sexual encounters with other women, possibly to the
 detriment of other relationships.
 
-3. Home for a Night Cup
+## Home for a Night Cup
 
 The episode cuts to a scene of Liam and Ffion in the car discussing the appraisal (Liam shows her the re-do,
 they use the zoom feature to debate whether they're making a tick on a paper or something else). Liam has
@@ -54,33 +57,31 @@ memory proved otherwise.
 Later, the two have very un-energetic makeup sex, both choosing to use their grains to relieve past occasions
 instead of making this one more lively.
 
-4. Paranoia 
-
-    Liam wakes up early and starts analyzing each moment of the houes party. Specifically, he watches a scene where his wife is laughing at a poor joke made by Jonas. Liam becomes outraged and thinks his wife is cheating on him. 
+## Paranoia 
 
 Liam wakes up early and starts analyzing each moment of the house party using his grain, in particular watching
 Ffion laughing excessively at a joke that Jonas made. Liam becomes outraged at this memory and believes Ffion
 is cheating on him.
 
-5. Confronting Jonas
+## Attacking Jonas
 
 After drinking heavily, Liam drives to Jonas's house (despite the intoxication warnings of his grain) and
 physically threatens him, forcing him to delete all grain memories of Ffion (Jonas's overnight guest, the woman
 without a grain, calls the police but is turned away when she tells them she doesn't have a grain feed to show
 them). Jonas has these memories organized into an album, a "stash" of his times with Ffion.
 
+## Confronting Ffion
+
 After crashing his car on the way back, Liam (now somewhat more sober) reviews the grain memories and zooms
 in on a screen showing Jonas's memories of Ffion, one of them dated to 18 months ago, when he was married --
-and importantly, when Liam and Ffion were trying for a baby (which they now have)
-
-6. Confronting Ffion
+and importantly, when Liam and Ffion were trying for a baby (which they now have).
 
 Liam confronts his wife with the memories, asking her if she used a condom. She says yes, so Liam asks her to
 prove it by showing her the memories. Ffion claims she deleted the memories, so he asks her to show him the
 blank spot in her memory "timeline". She tries to covertly delete the memories but is thwarted by Liam, who
 watches them. It is implied that the memory reveals that Liam and Ffion's child is in fact Ffion and Jonas's.
 
-7. Fallout
+## Aftermath 
 
 Liam walks through the now darkened and messy house, reviewing past memories, some of them pleasant, and some
 of them revealing Ffion's unfaithful or manipulative behavior (e.g. quietly laughing at Liam after they argue
