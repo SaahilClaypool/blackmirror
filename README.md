@@ -1,8 +1,12 @@
 ## Black Mirror: The Entire History of You
 
-2011: "The Entire History of You" is the third and final episode of the first series of British science fiction anthology series Black Mirror. It was written by the creator of Peep Show and Fresh Meat, Jesse Armstrong, making it the only episode of the series not written or co-written by creator and showrunner Charlie Brooker. It was directed by Brian Welsh, and first aired on Channel 4 on 18 December 2011.
+"The Entire History of You" is episode 1x03 of the anthology series *Black Mirror*, which focuses on possible
+dystopia futures, often with just a few minor differences from our modern world..
 
-The episode, set in an alternative reality where most people have "grains" recording everything they do, see, or hear, and allowing them to play back their memories in front of their eyes or on a screen, tells the story of Liam (Toby Kebbell), a man who starts suspecting that his wife Ffion (Jodie Whittaker) might have had an affair. ([Wikipedia](https://en.wikipedia.org/wiki/The_Entire_History_of_You))
+In this episode, most of the population has "grains" implanted, small memory devices that record everything
+they see or hear, and allowing them to play back digital copies of their experiences at will. It is in this
+setting that the show presents a fairly typical story of a man who suspects his wife is cheating on him, but
+with the twist of having perfect memory to worsen his paranoia and uncover the truth.
 
 ## Table of Contents: 
 
@@ -20,7 +24,6 @@ The episode, set in an alternative reality where most people have "grains" recor
 	- [Privacy and Government](./Surveillance.md)
 	- [Computer and Network Security](./Security.md)
 	- [Software Reliability](./Reliability.md)
-	- [Professional Ethics](./ProfessionalEthics.md)
 	- [Work and Wealth](./WorkAndWealth.md)
 	
 - Meetings
@@ -31,4 +34,3 @@ The episode, set in an alternative reality where most people have "grains" recor
 
 - [slides](https://docs.google.com/presentation/d/1qIrAfZKnvJqmnIHvqBwNRuUOgYIkvlwRwY0s8Nc-_DA/edit?usp=sharing)
 
-[Home](https://saahilclaypool.github.io/blackmirror/)
