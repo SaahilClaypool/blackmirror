@@ -17,7 +17,7 @@ and decides that the appraisal went poorly.
 After his appraisal, Liam catches a flight home. Instead of a modern TSA-style security screening, he need only
 walk through a glass-like detector and provide a quick "re-do" (playback of memories) to the security agent.
 The security agent asks for the last 24 hours, then the last week at 64x playback speed. The software on the
-security terminal computer uses facial recognition to highlight key people in his recent pass, such as the
+security terminal computer uses facial recognition to highlight key people in his recent past, such as the
 people who conducted his appraisal.
 
 ## The House Party
