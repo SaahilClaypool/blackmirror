@@ -17,8 +17,15 @@ The episode, set in an alternative reality where most people have "grains" recor
 	- [Networked Communications](./Networked.md)
 	- [Intellectual Property](./Property.md)
 	- [Information Privacy](./Privacy.md)
-	- [Privacy and Government](./GovPrivacy.md)
+	- [Privacy and Government](./Surveillance.md)
 	- [Computer and Network Security](./Security.md)
 	- [Software Reliability](./Reliability.md)
 	- [Professional Ethics](./ProfessionalEthics.md)
 	
+- Meetings
+	- [Meeting 1](./Meetings/meeting_1.md)
+	- [Meeting 2](./Meetings/meeting_2.md)
+	- [Meeting 3](./Meetings/meeting_3.md)
+	- [Meeting 4](./Meetings/meeting_4.md)
+
+[Home](https://saahilclaypool.github.io/blackmirror/)
