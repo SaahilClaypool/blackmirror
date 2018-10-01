@@ -1,79 +1,58 @@
 # Technologies
 
-## Running List
+Below is a list of technologies seen in the movie; further below, the technologies are grouped into future,
+emerging, and impossible.
 
-- The 'Grain'
+## List
 
-    Some sort of technology that stores and replays every memory a person has. This also seems to include some metal device that allows the scrolling and replay of memories on any computer device. 
+* "Grain" memory implant
+	* Implant just behind one of the ears the size of a *grain* of rice
+	* Connected to the brain and possibly the eyes with a fleshy cable
+	* Improper removal can cause brain damage or loss of vision -- connection to brain or eyes implied
+	* "Grain assistant" can read your blood alcohol concentration, tell you if you're too drunk to drive
+* Eye HUD implants
+	* Allows the user to view information from their grain directly without need for an external display
+	* Controlled with a small keychain fob, everyone keeps one in their pockets
+	* Can do lip reading, zoom/enhance, memory organization, etc.
+* Readily compatible and connectible devices, gesture controlled
+	* Every screen shown can have arbitrary content casted to it
+	* Grain users can gesture to a TV with their fob, show re-dos, or interact with their normal HUD
+	* Can pay taxi fares (and probably other transactions) using your keychain fob
+* Facial recognition & association check 
+	* Security terminals can show officers re-dos at various speeds
+	* Computer searches for faces in the re-dos
+	* Information about association with people shown is given, e.g. "Employer"
 
-- Contact payments 
+## Future Technology
 
-    See when Liam Foxwell (the main character) uses his "fob" to pay the taxi
+Eye implants that show a heads-up display is definitely a future technology with little progress made in that
+area. Note that this is distinct from a heads-up display shown in contact lenses -- the episode mentions that
+getting your grain gouged out could result in blindness or brain damage, implying that the grain is probably
+connected to the vision center of the brain and therefore would not need contact lenses. Either way, no
+evidence of contact lenses is ever shown.
 
-- Heads up displays through contacts
+The grain itself doesn't exist, nor is it a technology emerging in the near future, but strictly speaking it's
+not impossible. The grain itself is really just a device with incredibly high storage density, enough to
+save at least 30-40 years of memories -- based both on the job appraisal scene and Liam & Ffion's review of
+their child's grain footage, grains are implanted very early in life. The technology could be either a high
+density storage medium, or a better video compression system, or both -- neither of which is impossible.
+The connection to the brain/eyes and the eye implants are definitely not present in our time or even
+emerging yet, but efforts at connecting brains and computers are progressing and the technology has not
+been ruled out as impossible, so we can only categorize this as "future".
 
-    Used the entire movie to replay memories
+### Emerging Technology
 
-
-- Lip Reading from a video
-
-    Used when Liam is attempting to see what his wife said to Jonas
-
-- Screen casting
-
-    The characters use their 'fob' to display what they are seeing onto a screen. This is like a much better version of miracast devices.
-
-- Ads on public transport
-  
-    As soon as Liam Foxwell enters a cab, the cab starts playing advertisements for a grain
-
-- TSA / Airlines use personal memories for security 
-  
-    The airlines seems to use the last week of memories to check that Liam is not nefarious before he boards the airplane.
-
-
-
-## Groups
-
-### Future
-
-- Heads-up-displays in contact lenses
-
-	The grain is able to shrink the functionality of Google Glass and more into a simple contact lense.
-
-### Emerging
-
-- High desity data storage
-
-	We currently have microSD cards capable of incredibly high storage data, but The Entire History of You pushes this far beyond what is currently possible. The grain is no larger than a microSD card, but is able to hold litterally a lifetime of extremely high resolution data. Even more impressive to a computer scientist, this vast volume of data can be accessed and searched nearly instantly.
+Augmented reality of the sort we see in the episode *is* an emerging technology, with well known efforts
+such as the Google Glass or Microsoft HoloLens making strides towards high quality augmentation. While we
+don't have nearly the same level augmentation that a grain provides (lip reading, zoom, etc), or even the
+user interface (with particular respect to the grain controller) and ease of casting content to devices.
 
 
 ### Impossible
 
-- Interestingly, nothing in the episode seemed genuinely impossible
+Interestingly, nothing in the episode seemed genuinely impossible, perhaps just a little distant in the future.
+We suspect that this was a conscious decision by the writers to show the complications that could arise with only
+some advancement of existing technology.
 
-	We suspect that this was a consious decision by the writers to show the conplications that could arise with only a small advancement of existing technology.
 
-### Plausible
-
-- The 'Grain'
-	
-	A chip implanted behind the ear, and the functionality of google glass built into the eye or contacts. The grain records all memories, and enables playback through a heads up display on the eye.
-
-	- Redo
-		
-		All memories recorded in the grain can be replayed either on your eye, or on a nearby screen for others to watch.
-
-	- Zoom in 
-
-		It is possible to zoom into recorded memories far more than what the human eye can see.
-
-	- Lip reading
-
-		Grain is possible to reconstructing a conversation from accross the room with lip reading software.
-
-	- Intoxication warning while driving
-
-		If someone tries to drive drunk they get a warning that they are responsible for any accidents.
-		
 [Home](https://saahilclaypool.github.io/blackmirror/)
