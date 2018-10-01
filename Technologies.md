@@ -37,9 +37,22 @@
 
 ### Future
 
+- Heads-up-displays in contact lenses
+
+	The grain is able to shrink the functionality of Google Glass and more into a simple contact lense.
+
 ### Emerging
 
+- High desity data storage
+
+	We currently have microSD cards capable of incredibly high storage data, but The Entire History of You pushes this far beyond what is currently possible. The grain is no larger than a microSD card, but is able to hold litterally a lifetime of extremely high resolution data. Even more impressive to a computer scientist, this vast volume of data can be accessed and searched nearly instantly.
+
+
 ### Impossible
+
+- Interestingly, nothing in the episode seemed genuinely impossible
+
+	We suspect that this was a consious decision by the writers to show the conplications that could arise with only a small advancement of existing technology.
 
 ### Plausible
 
