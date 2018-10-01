@@ -21,7 +21,7 @@ with the twist of having perfect memory to worsen his paranoia and uncover the t
 	- [Networked Communications](./Networked.md)
 	- [Intellectual Property](./Property.md)
 	- [Information Privacy](./Privacy.md)
-	- [Privacy and Government](./Surveillance.md)
+	- [Privacy and Government](./Privacy.md)
 	- [Computer and Network Security](./Security.md)
 	- [Software Reliability](./Reliability.md)
 	- [Work and Wealth](./WorkAndWealth.md)
