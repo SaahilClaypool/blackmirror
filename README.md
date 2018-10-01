@@ -21,6 +21,7 @@ The episode, set in an alternative reality where most people have "grains" recor
 	- [Computer and Network Security](./Security.md)
 	- [Software Reliability](./Reliability.md)
 	- [Professional Ethics](./ProfessionalEthics.md)
+	- [Work and Wealth](./WorkAndWealth.md)
 	
 - Meetings
 	- [Meeting 1](./Meetings/meeting_1.md)
