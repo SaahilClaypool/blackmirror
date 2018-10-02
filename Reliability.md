@@ -2,6 +2,8 @@
 
 Given the extent to which technology is integrated into people's lives in the Entire History of You, having it work reliably is of great importance. The grain in particular would be a huge danger to people's safety if there was a flaw in its software or hardware. There is evidence that forcibly removing a grain can cause pysical harm. One of the guests at the dinner party explains that she was assaulted and had her grain stolen. Jonas inquires about brain damage and she replies that she has not experienced any loss of vision, implying that this is something others may have experienced. It is likely that a defect in the grain's software or hardware could have a similar effect on a person. Since the grain is used to store memories, another possibility is that software glitches could cause it to erase certain memories, or create false memories of things that never happened.
 
+![Gouge scar](img/Gouge.png)
+
 In our world, software is never without bugs, which raises the question of how safe the grain could possibly be. It seems impossible that the company producing it could ever test it thoroughly enough to catch every flaw. It would be very interesting to see what would happen if a software issue in the grain was exposed and did cause someone harm. It is unknown whether the company that produced it would be held liable, or if the grain is a technology that consumers use at their own risk. Even if the company was held liable, the grain is so integrated into society that it is hard to predict what the consumer backlash would be. Some people would probably be outraged, but others would probably stubbornly believe it could never happen to them.
 
 [Home](https://saahilclaypool.github.io/blackmirror/)
