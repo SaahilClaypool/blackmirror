@@ -20,6 +20,8 @@ The security agent asks for the last 24 hours, then the last week at 64x playbac
 security terminal computer uses facial recognition to highlight key people in his recent past, such as the
 people who conducted his appraisal.
 
+![The Appraisal](img/apprais.png)
+
 ## The House Party
 
 Liam arrives at a house party seemingly held by some old friends of his wife, using his grain to quickly review
@@ -41,6 +43,8 @@ she's "just happier".
 Jonas reveals that he uses his grain to store and replay past sexual encounters with other women, possibly to
 the detriment of other relationships.
 
+![The House Party](img/Party.png)
+
 ## Home for a Night Cup
 
 The episode cuts to a scene of Liam and Ffion in the car discussing the appraisal (Liam shows her the re-do,
@@ -57,11 +61,15 @@ memory proved it was longer than she claimed.
 Later, the two have very impassionate makeup sex, both choosing to use their grains to relive past occasions
 instead of putting effort into this one.
 
+![Night Cup](img/nightcup.png)
+
 ## Paranoia 
 
 Liam wakes up early and starts analyzing each moment of the house party using his grain, in particular watching
 Ffion laughing excessively at a joke that Jonas made. Liam becomes outraged at this memory and believes Ffion
 is cheating on him.
+
+![Night Cup](img/paranoia.png)
 
 ## Attacking Jonas
 
@@ -70,6 +78,8 @@ physically threatens him, forcing him to delete all grain memories of Ffion (Jon
 without a grain, calls the police but is turned away when she tells them she doesn't have a grain feed to show
 them). Jonas has these memories organized into an album, a "stash" of his times with Ffion. Jonas deletes
 the memories.
+
+![The Attack](img/attack.png)
 
 ## Confronting Ffion
 
@@ -82,11 +92,14 @@ prove it by showing her the memories. Ffion claims she deleted the memories, so 
 blank spot in her memory "timeline". She tries to covertly delete the memories but is thwarted by Liam, who
 watches them. It is implied that the memory reveals that Liam and Ffion's child is in fact Ffion and Jonas's.
 
+
 ## Aftermath 
 
 Liam walks through the now darkened and messy house, reviewing past memories, some of them pleasant, and some
 of them revealing Ffion's unfaithful or manipulative behavior (e.g. quietly laughing at Liam after they argue
 over whether she was lying). Liam finally goes to the bathroom and uses a razor to remove his grain, and the
 episode ends on a cut to black.
+
+![The Attack](img/aftermath.png)
 
 [Home](https://saahilclaypool.github.io/blackmirror/)
