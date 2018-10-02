@@ -33,6 +33,6 @@ critique.
 	- [Meeting 2](./Meetings/meeting_2.md)
 	- [Meeting 3](./Meetings/meeting_3.md)
 	- [Meeting 4](./Meetings/meeting_4.md)
-	- [Meeting 4](./Meetings/meeting_5.md)
+	- [Meeting 5](./Meetings/meeting_5.md)
 - [slides](https://docs.google.com/presentation/d/1qIrAfZKnvJqmnIHvqBwNRuUOgYIkvlwRwY0s8Nc-_DA/edit?usp=sharing)
 
