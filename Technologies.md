@@ -5,6 +5,8 @@ emerging, and impossible.
 
 ## List
 
+![Grain implant](img/ImplantAd.png)
+
 * "Grain" memory implant
 	* Implant just behind one of the ears the size of a *grain* of rice
 	* According to an ad, the grain is capable of recording data from all senses, and replaying it in the brain, or on a display
