@@ -25,7 +25,9 @@ emerging, and impossible.
 	* Computer searches for faces in the re-dos
 	* Information about association with people shown is given, e.g. "Employer"
 
-## Future Technology
+## Could these exist?
+
+### Future Technology
 
 A heads-up display in the eye is definitely a future technology with little progress made in that
 area. Note that this is distinct from a heads-up display shown in contact lenses -- the episode suggests that
@@ -50,7 +52,6 @@ such as the Google Glass or Microsoft HoloLens making strides towards high quali
 don't have nearly the same level augmentation that a grain provides (lip reading, zoom, etc), or even the
 user interface (with particular respect to the grain controller) and ease of casting content to devices.
 
-
 ### Impossible
 
 Interestingly, nothing in the episode seemed genuinely impossible, perhaps just a little distant in the future.
@@ -61,6 +62,5 @@ some advancement of existing technology.
 
 [1] "SMARTPHONE AND TABLET MICROSDHC/XC CLASS 10 UHS-I U1." Integral Memory. Web. "September 30 2018" <https://www.integralmemory.com/product/smartphone-and-tablet-microsdhc-microsdxc-class-10-uhs-i-u1-memory-card>.
 [2] Bashir, I. Morshed*, and Khan Abdulhalim. "A Brief Review of Brain Signal Monitoring Technologies for BCI Applications: Challenges and Prospects." Journal of Bioengineering & Biomedical Science.1 (2014): 1-10. Web.
-
 
 [Home](https://saahilclaypool.github.io/blackmirror/)
