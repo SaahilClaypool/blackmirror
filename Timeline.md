@@ -1,12 +1,5 @@
 # Movie Timeline
 
-In this episode, nearly everyone has an implant called a grain. The grain records everything you experience, and
-provides a small device to scroll through these memories on a heads-up-display shown directly through the eyes.
-The show presents a common story -- one person cheating on another -- with the twist of the grain to help and
-harm in investigation of this affair.
-
-The events below are shown in chronological order:
-
 ## The Appraisal
 
 The main character, Liam Foxwell, is present at a job appraisal meeting with some leaders at his law firm. At
