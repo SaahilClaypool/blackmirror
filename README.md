@@ -19,11 +19,7 @@ critique.
 ## Table of Contents: 
 
 - [Timeline](./Timeline.md)
-
 - [Technologies](./Technologies.md)
-
-	Contains list of technologies in black mirror. 
-
 - Categories
 	- [Networked Communications](./Networked.md)
 	- [Intellectual Property](./Property.md)
@@ -32,13 +28,11 @@ critique.
 	- [Computer and Network Security](./Security.md)
 	- [Software Reliability](./Reliability.md)
 	- [Work and Wealth](./WorkAndWealth.md)
-	
 - Meetings
 	- [Meeting 1](./Meetings/meeting_1.md)
 	- [Meeting 2](./Meetings/meeting_2.md)
 	- [Meeting 3](./Meetings/meeting_3.md)
 	- [Meeting 4](./Meetings/meeting_4.md)
 	- [Meeting 4](./Meetings/meeting_5.md)
-
 - [slides](https://docs.google.com/presentation/d/1qIrAfZKnvJqmnIHvqBwNRuUOgYIkvlwRwY0s8Nc-_DA/edit?usp=sharing)
 
